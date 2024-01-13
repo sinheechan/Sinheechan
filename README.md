@@ -13,7 +13,7 @@
 
 <!-- 뱃지 디자인 -->
 <img src="https://img.shields.io/badge/Python-0085C0?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-0075EB?style=flat&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-0075EB?style=flat&logo=R Programing&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat&logo=Notion&logoColor=white"/>
 
