@@ -8,7 +8,7 @@
 ## **Skill | Tools**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-0075EB?style=flat&logo=R&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/R-0075EB?style=flat&logo=R&logoColor=white"/>
 
 <!--
 **sinheechan/Sinheechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
