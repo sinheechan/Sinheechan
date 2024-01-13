@@ -1,5 +1,7 @@
+<!--배경무늬 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+<!--자기소개 문구 -->
 # 🔗안녕하세요 👋
 
 제 Github Page에 오신것을 환영합니다.  
@@ -7,12 +9,14 @@
 
 ## **Skill | Tools**
 
+<!-- 뱃지 디자인 -->
 <img src="https://img.shields.io/badge/Python-0085C0?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-0075EB?style=flat&logo=R&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat&logo=Notion&logoColor=white"/>
 
+<!-- State 표 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
-
+<!--배경무늬 -->
 ![Anurag's github stats]<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
