@@ -9,7 +9,7 @@
 제 Github Page에 오신것을 환영합니다.  
 데이터 분석 위주로 코드를 업데이트 하고 있으니 피드백 주시면 감사드리겠습니다.
 
-## **Skill | Tools**
+## **SKILL | TOOLS**
 
 <!-- 뱃지 디자인 -->
 <img src="https://img.shields.io/badge/Python-0085C0?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -17,6 +17,7 @@
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat&logo=Notion&logoColor=white"/>
 
+## **PORJECT**
 <!-- State 표 -->
 ![Heechan's github stats](https://github-readme-stats.vercel.app/api?username=Sinheechan&show_icons=true&theme=tokyonight)
 
