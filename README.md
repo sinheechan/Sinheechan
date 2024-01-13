@@ -18,10 +18,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat&logo=Notion&logoColor=white"/>
 
 <!-- State 표 -->
-![Heechan's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+![Heechan's github stats](https://github-readme-stats.vercel.app/api?username=Sinheechan&show_icons=true&theme=tokyonight)
 
 <!-- 언어 사용량 통계 -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 <!--배경무늬 -->
